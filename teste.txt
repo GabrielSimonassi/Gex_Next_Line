@@ -1,0 +1,3 @@
+Este aqui é o meu teste
+Vamos ver se essa desgraça \n está funcionando como deveria
+eu espero que sim
